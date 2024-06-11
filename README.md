@@ -1,6 +1,6 @@
 # 🚀 O Futuro do Recrutamento é Agora
 
-![logo_coploy](https://github.com/coploy-ia/coploy-ia/assets/168015494/5ed8ed88-8984-4435-a8b0-dcc10495de8c)
+  ![ico](https://github.com/coploy-ia/coploy-ia/assets/168015494/277c801e-808e-4f8c-bf78-e43f85639a77)
 
 Bem-vindo ao portal interno da **Coploy**! Estamos reinventando o recrutamento profissional com uma plataforma que emprega a mais avançada inteligência artificial, criando pontes entre talentos e oportunidades.
 
@@ -45,8 +45,8 @@ A inovação é a nossa essência na Coploy. Junte-se a nós para criar o futuro
 
 ## 📫 Contato
 
-Para mais informações ou suporte, entre em contato através do email: suporte@coploy.com.
+Para mais informações ou suporte, entre em contato através do email: tecnologia@coploy.io
 
 ---
 
-Feito com ❤️ pela equipe Coploy.
+Feito com 👾 pela equipe Coploy.
